@@ -16,7 +16,7 @@
   <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=murathudavendigar)](https://git.io/streak-stats)   <br>
-[![Captain Price's GitHub stats](https://github-readme-stats.vercel.app/api?username=murathudavendigar)](https://github.com/anuraghazra/github-readme-stats)   <br>
+[![Captain Price's GitHub stats](https://github-readme-stats.vercel.app/api?username=murathudavendigar&theme=codeSTACKr_icons=true)](https://github.com/murathudavendigar/github-readme-stats)   <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murathudavendigar)](https://github.com/anuraghazra/github-readme-stats)   <br>
 
   </div>
