@@ -8,11 +8,12 @@
 - 😄 Pronouns:
 - ⚡ Fun fact: 
 
- <div align="center">
-  ![](https://visitor-badge.glitch.me/badge?page_id=murathudavendigar.murathudavendigar)
- </div>
+ 
+ 
 
-<div align="center">
+
+<div align="center">  <br>
+  ![](https://visitor-badge.glitch.me/badge?page_id=murathudavendigar.murathudavendigar)  <br>
  <a href="https://twitter.com/murathoncu">
   <img alt="Captain Price | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
 </a>
