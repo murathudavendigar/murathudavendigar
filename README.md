@@ -8,9 +8,9 @@
 - 😄 Pronouns:
 - ⚡ Fun fact: 
 
- <p align="center">
+ <div align="center">
   ![](https://visitor-badge.glitch.me/badge?page_id=murathudavendigar.murathudavendigar)
- </p>
+ </div>
 
 <div align="center">
  <a href="https://twitter.com/murathoncu">
