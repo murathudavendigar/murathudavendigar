@@ -6,7 +6,7 @@
 - 💬 Ask me about myself
 - 📫 How to reach me: murathoncu@gmail.com
 - 😄 Pronouns:
- ![](https://visitor-badge.glitch.me/badge?page_id=murathudavendigar.murathudavendigar) 
+                                 ![](https://visitor-badge.glitch.me/badge?page_id=murathudavendigar.murathudavendigar) 
 
  
  
