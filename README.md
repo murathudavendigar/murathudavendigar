@@ -8,9 +8,9 @@
 - 😄 Pronouns:
 - ⚡ Fun fact: 
 
- [![Actions Status](https://github.com/murathudavendigar/murathudavendigar/workflows/wakatime-stats/badge.svg)](https://github.com/murathudavendigar/murathudavendigar/actions)
-  [![Actions Status](https://github.com/murathudavendigar/murathudavendigar/workflows/update-gh-activity/badge.svg)](https://github.com/murathudavendigar/murathudavendigar/actions)
+ <p align="center">
   ![](https://visitor-badge.glitch.me/badge?page_id=murathudavendigar.murathudavendigar)
+ </p>
 
 <div align="center">
  <a href="https://twitter.com/murathoncu">
