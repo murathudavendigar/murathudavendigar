@@ -6,10 +6,10 @@
 - 💬 Ask me about myself
 - 📫 How to reach me: murathoncu@gmail.com
 - 😄 Pronouns:
-- ⚡ Fun fact: 
+ ![](https://visitor-badge.glitch.me/badge?page_id=murathudavendigar.murathudavendigar) 
 
  
-  ![](https://visitor-badge.glitch.me/badge?page_id=murathudavendigar.murathudavendigar) 
+ 
 
 
 <div align="center">  
@@ -34,3 +34,5 @@
   
  
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=murathudavendigar&custom_title=Price's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
