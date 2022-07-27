@@ -19,7 +19,7 @@
 </a>
 <a href="https://www.instagram.com/m_hdavendigr/?hl=tr">
   <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
-</a>
+</a>             <br>
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=murathudavendigar)
   <br>
 
@@ -28,3 +28,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murathudavendigar)](https://github.com/anuraghazra/github-readme-stats)   <br>
 
   </div>
+  
+  <p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=murathudavendigarx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=murathudavendigar&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
