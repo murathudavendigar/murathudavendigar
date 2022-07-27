@@ -20,7 +20,9 @@
 <a href="https://www.instagram.com/m_hdavendigr/?hl=tr">
   <img alt="Captain Price's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
 </a>             <br>
-  ![visitors] (https://visitor-badge.glitch.me/badge?page_id=murathudavendigar)
+  [![Actions Status](https://github.com/murathudavendigar/murathudavendigar/workflows/wakatime-stats/badge.svg)](https://github.com/murathudavendigar/murathudavendigar/actions)
+  [![Actions Status](https://github.com/murathudavendigar/murathudavendigar/workflows/update-gh-activity/badge.svg)](https://github.com/murathudavendigar/murathudavendigar/actions)
+  ![](https://visitor-badge.glitch.me/badge?page_id=murathudavendigar.murathudavendigar)
   <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=murathudavendigar)](https://git.io/streak-stats)   <br>
