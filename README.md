@@ -30,6 +30,7 @@
 [![Captain Price's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=murathudavendigar)](https://github.com/murathudavendigar/github-readme-stats) <br>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/e14af7db-08ee-4a32-836a-4a2c9e02fae5/project/a92561b7-ed76-4503-a013-ccc301febdef.svg)](https://wakatime.com/badge/user/e14af7db-08ee-4a32-836a-4a2c9e02fae5/project/a92561b7-ed76-4503-a013-ccc301febdef)
 
   </div>
   
