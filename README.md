@@ -27,7 +27,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=murathudavendigar)](https://git.io/streak-stats)   <br>
 [![Captain Price's GitHub stats](https://github-readme-stats.vercel.app/api?username=murathudavendigar&theme=dark&show_icons=true)](https://github.com/murathudavendigar/github-readme-stats)   <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murathudavendigar)](https://github.com/anuraghazra/github-readme-stats)   <br>
-[![Captain Price's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=murathudavendigar)](https://github.com/murathudavendigar/github-readme-stats)
+[![Captain Price's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=murathudavendigar)](https://github.com/murathudavendigar/github-readme-stats) <br>
+- name: Profile Readme Development Stats
+  uses: anmol098/waka-readme-stats@V3
+
 
   </div>
   
