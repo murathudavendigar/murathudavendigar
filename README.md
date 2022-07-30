@@ -31,6 +31,8 @@
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e14af7db-08ee-4a32-836a-4a2c9e02fae5/project/a92561b7-ed76-4503-a013-ccc301febdef.svg)](https://wakatime.com/badge/user/e14af7db-08ee-4a32-836a-4a2c9e02fae5/project/a92561b7-ed76-4503-a013-ccc301febdef)
 
+<figure><embed src="https://wakatime.com/share/@e14af7db-08ee-4a32-836a-4a2c9e02fae5/74bd45a2-10dd-4725-860f-5d8183ac3409.svg"></embed></figure>
+
   </div>
   
  
