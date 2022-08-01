@@ -21,6 +21,7 @@
 <a href="https://twitter.com/murathoncu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="murathoncu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/murat-hüdavendigâr-öncü-232749246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murat-hüdavendigâr-öncü-232749246" height="30" width="40" /></a>
 <a href="https://instagram.com/m_hdavendigr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_hdavendigr" height="30" width="40" /></a>
+<a href="https://discord.gg/F4283-Murat#0334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="F4283-Murat#0334" height="30" width="40" /></a>
 </p>
 
 <h3 >Languages and Tools:</h3>
