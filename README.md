@@ -4,14 +4,16 @@
 <p> <img src="https://komarev.com/ghpvc/?username=murathudavendigar&label=Profile%20views&color=0e75b6&style=flat" alt="murathudavendigar" /> </p>
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murathudavendigar" alt="murathudavendigar" /></a> </p>
+  <p><a href="https://wakatime.com/@e14af7db-08ee-4a32-836a-4a2c9e02fae5"><img src="https://wakatime.com/badge/user/e14af7db-08ee-4a32-836a-4a2c9e02fae5.svg" alt="Total time coded since Jul 28 2022" /></a>
+</p>
 
 <p> <a href="https://twitter.com/murathoncu" target="blank"><img src="https://img.shields.io/twitter/follow/murathoncu?logo=twitter&style=for-the-badge" alt="murathoncu" /></a> </p>
 
-- 🔭 I’m currently working on **HTML & CSS**
+🔭 I’m currently working on **HTML & CSS**
 
-- 👯 I’m looking to collaborate on **Slack**
+👯 I’m looking to collaborate on **Slack**
 
-- 📫 How to reach me **murathoncu@gmail.com**
+📫 How to reach me **murathoncu@gmail.com**
 
 <h3 >Connect with me:</h3>
 <p>
@@ -29,5 +31,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murathudavendigar&show_icons=true&locale=en" alt="murathudavendigar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murathudavendigar&" alt="murathudavendigar" /></p>
+  
+  [![activity graph](https://activity-graph.herokuapp.com/graph?username=murathudavendigar&custom_title=Price's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   
   </div>
