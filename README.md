@@ -33,6 +33,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murathudavendigar&" alt="murathudavendigar" /></p>
   
   [![activity graph](https://activity-graph.herokuapp.com/graph?username=murathudavendigar&custom_title=Price's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=murathudavendigar&theme=gruvbox" />  
 
   
   </div>
