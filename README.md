@@ -3,8 +3,10 @@
 <div align="center">
 <p> <img src="https://komarev.com/ghpvc/?username=murathudavendigar&label=Profile%20views&color=0e75b6&style=flat" alt="murathudavendigar" /> </p>
 
-<p> ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=murathudavendigar&theme=onedark&no-frame=true&no-bg=true&margin-w=4) </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=murathudavendigar&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+  
+  
   <p><a href="https://wakatime.com/@e14af7db-08ee-4a32-836a-4a2c9e02fae5"><img src="https://wakatime.com/badge/user/e14af7db-08ee-4a32-836a-4a2c9e02fae5.svg" alt="Total time coded since Jul 28 2022" /></a>
 </p>
 
