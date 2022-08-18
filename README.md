@@ -42,7 +42,7 @@
   [![activity graph](https://activity-graph.herokuapp.com/graph?username=murathudavendigar&custom_title=Price's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CaptainPrice&theme=vision-friendly-dark&hide_border=true" /> 
-<br><br>
+
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
   ##
   <img src="https://random-memer.herokuapp.com/" width="512px"/>
