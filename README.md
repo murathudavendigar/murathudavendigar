@@ -3,7 +3,8 @@
 <div align="center">
 <p> <img src="https://komarev.com/ghpvc/?username=murathudavendigar&label=Profile%20views&color=0e75b6&style=flat" alt="murathudavendigar" /> </p>
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murathudavendigar" alt="murathudavendigar" /></a> </p>
+<p> ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=murathudavendigar&theme=onedark&no-frame=true&no-bg=true&margin-w=4) </p>
   <p><a href="https://wakatime.com/@e14af7db-08ee-4a32-836a-4a2c9e02fae5"><img src="https://wakatime.com/badge/user/e14af7db-08ee-4a32-836a-4a2c9e02fae5.svg" alt="Total time coded since Jul 28 2022" /></a>
 </p>
 
@@ -46,7 +47,7 @@
   
   
   
-  
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_hdavendigr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/murat-hüdavendigâr-öncü-232749246) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/murathoncu) 
 
@@ -57,12 +58,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=murathudavendigar&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=murathudavendigar&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=murathudavendigar&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 😂 Random Dev Meme
-
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=murathudavendigar&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
