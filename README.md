@@ -1,5 +1,5 @@
-<img src="https://iili.io/P4ABkb.png" alt="P4ABkb.png" border="0" />
 <div align="center">
+  <img src="https://iili.io/P4ABkb.png" alt="P4ABkb.png" border="0" />
 <p> <img src="https://komarev.com/ghpvc/?username=murathudavendigar&label=Profile%20views&color=0e75b6&style=flat" alt="murathudavendigar" /> </p>
 
 ## 🏆 GitHub Trophies
