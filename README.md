@@ -44,7 +44,7 @@
   
 
   
-  [![Price's github activity graph](https://activity-graph.herokuapp.com/graph?username=murathudavendigar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Price's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=murathudavendigar&theme=react-dark)](https://github.com/murathudavendigar/github-readme-activity-graph)
   
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CaptainPrice&theme=vision-friendly-dark&hide_border=true" /> 
   </div>
