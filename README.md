@@ -12,9 +12,7 @@
 
 <p> <a href="https://twitter.com/murathoncu" target="blank"><img src="https://img.shields.io/twitter/follow/murathoncu?logo=twitter&style=for-the-badge" alt="murathoncu" /></a> </p>
 
-🔭 I’m currently working on **HTML & CSS & JAVASCRIPT & REACT JS**
-
-👯 I’m looking to collaborate on **Slack**
+🔭 I’m currently working on **JAVASCRIPT & TYPESCRIPT & REACT JS & PYTHON & DJANGO**
 
 📫 How to reach me **murathoncu@gmail.com**
 
