@@ -12,7 +12,7 @@
 
 <p> <a href="https://twitter.com/murathoncu" target="blank"><img src="https://img.shields.io/twitter/follow/murathoncu?logo=twitter&style=for-the-badge" alt="murathoncu" /></a> </p>
 
-🔭 I’m currently working on **TYPESCRIPT & NEXT.JS & DJANGO & EF CORE**
+🔭 I’m currently working on **TYPESCRIPT & NEXT.JS & DJANGO & .NET**
 
 📫 How to reach me **murathoncu@gmail.com**
 
