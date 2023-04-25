@@ -38,11 +38,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murathudavendigar&t&theme=vision-friendly-dark&hide_border=true&show_icons=true&locale=en" alt="murathudavendigar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murathudavendigar&theme=vision-friendly-dark&hide_border=true" alt="murathudavendigar" /></p>
+![](https://github-contributor-stats.vercel.app/api?username=murathudavendigar&limit=5&theme=dark&combine_all_yearly_contributions=true)
   
-
-  
-  [![Price's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=murathudavendigar&theme=react-dark)](https://github.com/murathudavendigar/github-readme-activity-graph)
   
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CaptainPrice&theme=vision-friendly-dark&hide_border=true" /> 
   </div>
