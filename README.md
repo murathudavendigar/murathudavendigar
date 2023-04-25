@@ -12,7 +12,7 @@
 
 <p> <a href="https://twitter.com/murathoncu" target="blank"><img src="https://img.shields.io/twitter/follow/murathoncu?logo=twitter&style=for-the-badge" alt="murathoncu" /></a> </p>
 
-🔭 I’m currently working on **JAVASCRIPT & TYPESCRIPT & REACT JS & PYTHON & DJANGO**
+🔭 I’m currently working on **TYPESCRIPT & NEXT.JS & DJANGO & EF CORE**
 
 📫 How to reach me **murathoncu@gmail.com**
 
@@ -37,8 +37,6 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=murathudavendigar&theme=vision-friendly-dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="murathudavendigar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murathudavendigar&t&theme=vision-friendly-dark&hide_border=true&show_icons=true&locale=en" alt="murathudavendigar" /></p>
-
-![](https://github-contributor-stats.vercel.app/api?username=murathudavendigar&limit=5&theme=dark&combine_all_yearly_contributions=true)
   
   
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CaptainPrice&theme=vision-friendly-dark&hide_border=true" /> 
