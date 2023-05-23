@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/109613328/208182453-8dab83b0-6ef4-4408-95b9-513e34889e87.png" alt="P4ABkb.png" border="0" />
   
 <p> <img src="https://komarev.com/ghpvc/?username=murathudavendigar&label=Profile%20views&color=0e75b6&style=flat" alt="murathudavendigar" /> </p>
 
