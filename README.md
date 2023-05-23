@@ -13,6 +13,8 @@
   <a href="https://medium.com/@murathoncu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@murathoncu" height="30" width="40" /></a>
 </p>
   <br><br>
+   <p><a href="https://wakatime.com/@e14af7db-08ee-4a32-836a-4a2c9e02fae5"><img src="https://wakatime.com/badge/user/e14af7db-08ee-4a32-836a-4a2c9e02fae5.svg" alt="Total time coded since Jul 28 2022" /></a>
+</p>
   
   # 💻 Tech Stack:
 
@@ -28,16 +30,15 @@
 ![](https://github-profile-trophy.vercel.app/?username=murathudavendigar&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
   
   
-  <p><a href="https://wakatime.com/@e14af7db-08ee-4a32-836a-4a2c9e02fae5"><img src="https://wakatime.com/badge/user/e14af7db-08ee-4a32-836a-4a2c9e02fae5.svg" alt="Total time coded since Jul 28 2022" /></a>
-</p>
+ 
 
-<p> <a href="https://twitter.com/murathoncu" target="blank"><img src="https://img.shields.io/twitter/follow/murathoncu?logo=twitter&style=for-the-badge" alt="murathoncu" /></a> </p>
+<!-- <p> <a href="https://twitter.com/murathoncu" target="blank"><img src="https://img.shields.io/twitter/follow/murathoncu?logo=twitter&style=for-the-badge" alt="murathoncu" /></a> </p> -->
 
 
  
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=murathudavendigar&theme=vision-friendly-dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="murathudavendigar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murathudavendigar&t&theme=vision-friendly-dark&hide_border=true&show_icons=true&locale=en" alt="murathudavendigar" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murathudavendigar&t&theme=vision-friendly-dark&hide_border=true&show_icons=true&locale=en" alt="murathudavendigar" /></p> -->
   
   
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CaptainPrice&theme=vision-friendly-dark&hide_border=true" /> 
