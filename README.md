@@ -41,5 +41,6 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murathudavendigar&t&theme=vision-friendly-dark&hide_border=true&show_icons=true&locale=en" alt="murathudavendigar" /></p> -->
   
   
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CaptainPrice&theme=vision-friendly-dark&hide_border=true" /> 
+ <p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=CaptainPrice&theme=vision-friendly-dark&hide_border=true" /> </p>
+ <img src="https://www.codewars.com/users/murathudavendigar/badges/large" />
   </div>
