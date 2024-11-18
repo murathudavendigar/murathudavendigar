@@ -18,7 +18,42 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C365%20hrs%2048%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 332 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
+TypeScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+HTML                     21 repos            ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+C#                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/murathudavendigar/murathudavendigar/main/assets/bar_graph.png)
+
+
+ Last Updated on 18/11/2024 13:43:11 UTC
 <!--END_SECTION:waka-->
 
   
