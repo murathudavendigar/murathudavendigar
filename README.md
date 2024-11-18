@@ -14,8 +14,8 @@
   <a href="https://medium.com/@murathoncu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@murathoncu" height="30" width="40" /></a>
 </p>
   <br><br>
-   <p><a href="https://wakatime.com/@e14af7db-08ee-4a32-836a-4a2c9e02fae5"><img src="https://wakatime.com/badge/user/e14af7db-08ee-4a32-836a-4a2c9e02fae5.svg" alt="Total time coded since Jul 28 2022" /></a>
-</p>
+   <!-- <p><a href="https://wakatime.com/@e14af7db-08ee-4a32-836a-4a2c9e02fae5"><img src="https://wakatime.com/badge/user/e14af7db-08ee-4a32-836a-4a2c9e02fae5.svg" alt="Total time coded since Jul 28 2022" /></a>
+</p> -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C365%20hrs%2048%20mins-blue)
