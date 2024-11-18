@@ -14,12 +14,15 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_TITLE: true
-          SHOW_LINES_OF_CODE: true
-          SHOW_PROFILE_VIEWS: false
-          SHOW_SHORT_INFO: false
-          DEBUG_LOGGING: false
-          SHOW_OS: true
-          SHOW_LANGUAGE: true
-          SHOW_COMMIT: true
+          LOCALE: "en"
+          SHOW_TITLE: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROJECTS: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_OS: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_COMMIT: "True"
           TIME_RANGE: all_time
+          CODE_LANG: typescript
