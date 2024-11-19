@@ -25,5 +25,5 @@ jobs:
           SHOW_COMMIT: "True"
           SHOW_EDITORS: "False"
           SYMBOL_VERSION: 2
-          UPDATED_DATE_FORMAT: "%d/%m/%Y"
+          UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M"
 
