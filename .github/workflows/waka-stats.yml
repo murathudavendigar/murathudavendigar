@@ -26,3 +26,6 @@ jobs:
           SHOW_COMMIT: "True"
           TIME_RANGE: all_time
           CODE_LANG: typescript
+          SHOW_EDITORS: "False"
+          SYMBOL_VERSION: 3
+          UPDATED_DATE_FORMAT: "%d/%m/%Y"
