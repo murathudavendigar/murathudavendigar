@@ -49,12 +49,10 @@ Sunday                   116 commits         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Other                    38 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   97.79 % 
-Org                      0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.49 % 
-newLISP                  0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.72 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      39 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -70,7 +68,7 @@ C#                       4 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 04/04/2025 22:15 UTC
+ Last Updated on 05/04/2025 22:14 UTC
 <!--END_SECTION:waka-->
 
   
