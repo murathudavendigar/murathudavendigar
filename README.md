@@ -18,6 +18,8 @@
 </p> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C931%20hrs%2037%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in JavaScript** 
@@ -33,7 +35,7 @@ CSS                      3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 03/10/2025 22:05 UTC
+ Last Updated on 04/10/2025 22:05 UTC
 <!--END_SECTION:waka-->
 
   
