@@ -3,7 +3,7 @@
   <!-- 🔭 I’m currently working on **TYPESCRIPT & NEXT.JS & DJANGO & .NET** -->
   🔭 I’m currently working on **TYPESCRIPT & NEXT.JS**
 
-📫 How to reach me **murathoncu@gmail.com**
+📫 How to reach me **contact@muratoncu.com**
 
 ## 🌐 Socials:
 <p>
